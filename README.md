@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clone repo từ <a href="https://github.com/UIT-20520353/server-demo" target="_blank">Server demo</a>
+- Tại folder vừa clone về, chạy lệnh yarn để cài đặt các package, sau đó yarn start để chạy server
+- Clone repo <a href="https://github.com/UIT-20520353/demo-react" target="_blank">Demo react</a> về, chạy lệnh yarn để cài đặt các package, sau đó yarn dev để run code
